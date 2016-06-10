@@ -1,0 +1,11 @@
+D:\Visual\QuanLyNhaTre\QuanLyNhaTre\bin\Debug\QuanLyNhaTre.exe.config
+D:\Visual\QuanLyNhaTre\QuanLyNhaTre\bin\Debug\QuanLyNhaTre.exe
+D:\Visual\QuanLyNhaTre\QuanLyNhaTre\bin\Debug\QuanLyNhaTre.pdb
+D:\Visual\QuanLyNhaTre\QuanLyNhaTre\obj\Debug\QuanLyNhaTre.csprojResolveAssemblyReference.cache
+D:\Visual\QuanLyNhaTre\QuanLyNhaTre\obj\Debug\QuanLyNhaTre.Properties.Resources.resources
+D:\Visual\QuanLyNhaTre\QuanLyNhaTre\obj\Debug\QuanLyNhaTre.csproj.GenerateResource.Cache
+D:\Visual\QuanLyNhaTre\QuanLyNhaTre\obj\Debug\QuanLyNhaTre.exe
+D:\Visual\QuanLyNhaTre\QuanLyNhaTre\obj\Debug\QuanLyNhaTre.pdb
+D:\Visual\QuanLyNhaTre\QuanLyNhaTre\obj\Debug\QuanLyNhaTre.frmHome.resources
+D:\Visual\QuanLyNhaTre\QuanLyNhaTre\obj\Debug\QuanLyNhaTre.frmQLTre.resources
+D:\Visual\QuanLyNhaTre\QuanLyNhaTre\obj\Debug\QuanLyNhaTre.frmQLNV.resources
