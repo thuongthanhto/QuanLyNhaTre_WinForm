@@ -1,4 +1,4 @@
-create database QUANLYMAMNON
+﻿create database QUANLYMAMNON
 go
 use QUANLYMAMNON
 go 
@@ -12,7 +12,7 @@ create table HOCSINH
 	DiaChi nvarchar(100) NULL,
 	DanToc nvarchar(100) NULL,
 	TonGiao nvarchar(30) NULL,
-	Hoten_cha nvarchar(100) NULL,
+	HoTen_Cha nvarchar(100) NULL,
 	NgheNghiep_Cha nvarchar(100) NULL,
 	HoTen_Me nvarchar(100) NULL,
 	NgheNghiep_Me nvarchar(100) NULL,
@@ -189,5 +189,26 @@ go
 
 Set quoted_identifier off
 go
+create table QUYEN
+(
+	MaQuyen int not null, 
+	TenQuyen nvarchar(50),
 
+	constraint PK_QUYEN primary key(MaQuyen)
+)
+go
+create table NGUOIDUNG
+(
+	TaiKhoan nvarchar(50) not null,
+	MatKhau nvarchar(50),	
+	MaQuyen int,
+
+	constraint PK_NGUOIDUNG primary key(TaiKhoan),
+	constraint FK_NGUOIDUNG_QUYEN foreign key(MaQuyen) references QUYEN(MaQuyen)
+)
+go
+insert into QUYEN values(1,N'Quản lý nhà sách')
+insert into QUYEN values(2,N'Thủ kho')
+insert into QUYEN values(3,N'Nhân viên bán hàng')
+insert into NGUOIDUNG values('Admin',123456,1)
 

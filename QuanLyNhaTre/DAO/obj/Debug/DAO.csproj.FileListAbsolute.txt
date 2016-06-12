@@ -1,0 +1,7 @@
+D:\GitHub\QuanLyNhaTre_WinForm\QuanLyNhaTre\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+D:\GitHub\QuanLyNhaTre_WinForm\QuanLyNhaTre\DAO\bin\Debug\DAO.dll
+D:\GitHub\QuanLyNhaTre_WinForm\QuanLyNhaTre\DAO\bin\Debug\DAO.pdb
+D:\GitHub\QuanLyNhaTre_WinForm\QuanLyNhaTre\DAO\bin\Debug\DTO.dll
+D:\GitHub\QuanLyNhaTre_WinForm\QuanLyNhaTre\DAO\bin\Debug\DTO.pdb
+D:\GitHub\QuanLyNhaTre_WinForm\QuanLyNhaTre\DAO\obj\Debug\DAO.dll
+D:\GitHub\QuanLyNhaTre_WinForm\QuanLyNhaTre\DAO\obj\Debug\DAO.pdb

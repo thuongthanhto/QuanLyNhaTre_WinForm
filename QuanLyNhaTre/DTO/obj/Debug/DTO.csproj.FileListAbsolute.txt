@@ -1,0 +1,5 @@
+D:\GitHub\QuanLyNhaTre_WinForm\QuanLyNhaTre\DTO\bin\Debug\DTO.dll
+D:\GitHub\QuanLyNhaTre_WinForm\QuanLyNhaTre\DTO\bin\Debug\DTO.pdb
+D:\GitHub\QuanLyNhaTre_WinForm\QuanLyNhaTre\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+D:\GitHub\QuanLyNhaTre_WinForm\QuanLyNhaTre\DTO\obj\Debug\DTO.dll
+D:\GitHub\QuanLyNhaTre_WinForm\QuanLyNhaTre\DTO\obj\Debug\DTO.pdb

@@ -1,0 +1,9 @@
+D:\GitHub\QuanLyNhaTre_WinForm\QuanLyNhaTre\BUS\bin\Debug\BUS.dll
+D:\GitHub\QuanLyNhaTre_WinForm\QuanLyNhaTre\BUS\bin\Debug\BUS.pdb
+D:\GitHub\QuanLyNhaTre_WinForm\QuanLyNhaTre\BUS\bin\Debug\DAO.dll
+D:\GitHub\QuanLyNhaTre_WinForm\QuanLyNhaTre\BUS\bin\Debug\DTO.dll
+D:\GitHub\QuanLyNhaTre_WinForm\QuanLyNhaTre\BUS\bin\Debug\DAO.pdb
+D:\GitHub\QuanLyNhaTre_WinForm\QuanLyNhaTre\BUS\bin\Debug\DTO.pdb
+D:\GitHub\QuanLyNhaTre_WinForm\QuanLyNhaTre\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+D:\GitHub\QuanLyNhaTre_WinForm\QuanLyNhaTre\BUS\obj\Debug\BUS.dll
+D:\GitHub\QuanLyNhaTre_WinForm\QuanLyNhaTre\BUS\obj\Debug\BUS.pdb
